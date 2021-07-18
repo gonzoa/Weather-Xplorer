@@ -1,0 +1,19 @@
+body{
+  width: 100%;
+  height: 100%;
+  background-size: fit;
+  background: teal;
+  text-align: center;
+  object-fit: cover;
+}
+.img{
+ 
+}
+.temp{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 80pt;
+  background: -webkit-linear-gradient(white, aqua,red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: bounce;
+}
